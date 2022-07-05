@@ -1,6 +1,3 @@
-# Pi Day 
-## "International Practically Pi  Day"
-
 ```
 22 July ≈ 22/7 ≈  π
 ```
@@ -32,20 +29,17 @@ of these seems to have much to do with π.
 In the U.S., the day and month are written backwards, so there is it written 3/14. But if you're a human being, you've likely never seen "/" used to respresent a decimal. Americans generally don't use periods to separate the day and the month.  Honestly, Americans almost always write 3/14, which is 0.214285714... last I checked. What a mess.
 
 
-
-
-
 | How to write March 14  |  Who does this? |
-|------------------------|---------------------------------|
-| 3/14           |  U.S. residents                          | 
-| 14/3           |  Everyone in the world (except U.S.)    | 
-| 14.03          |  Global Designery types                 |
-| 3.14           |  Pretty much *NOBODY* except StarTrek characters | 
+|------------------------|--------------------------------------------------|
+| 3/14                   |  U.S. residents                                  | 
+| 14/3                   |  Everyone in the world (except U.S.)             | 
+| 14.03                  |  Global artsy-fartsy types                       |
+| 3.14                   |  Pretty much *NOBODY* except StarTrek characters | 
 
 
 ### Isn't 3.14 really close?
 
-Not really.
+Not as close as 22/7.
 
 | Approximation  |  Error               | Error %        |
 |----------------|----------------------|----------------|
@@ -53,7 +47,7 @@ Not really.
 | 22/7           |  0.00126448926735... | **0.04024994348%** | 
 
 
-## Isn't 3.14 just easier to deal with?
+## Isn't 3.14 easier to deal with than 22/7?
 
 Nope. 3.14 suffers the same problems as the metric system. Unless your circle has a diameter of 10 (or something similar), you're got some 3-digit multiplication or division in your future. 
 
