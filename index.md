@@ -1,13 +1,16 @@
-# ≈≈≈≈≈ Pi Day ≈≈≈≈≈
-# π ≈ 22/7
+# Pi Day 
+## "International Practically Pi  Day"
 
-## Also know as "International Practically Pi  Day"
+```
+22 July ≈ 22/7 ≈  π
+```
 
 ## How do I to celebrate?
 - make (and eat) a pie (Pi). Yes, pizza is a pie.
 - recite all the digits of π that you're memorized to the "amazement" of your "friends."
-- calculate pi in some unique way
+- calculate pi [in some unique way](https://en.wikipedia.org/wiki/Buffon%27s_needle_problem#Estimating_%CF%80)
 - get together with some nerdy friends and nerd out in some other way
+- hone your estimation skills
 - do you homework
 
 ## Wait, isn't March 14th π day?
@@ -16,6 +19,10 @@ March 14th was declared π Day by U.S.-centric San Francisco hippies very recen
 in the tradition of the [Indian Pi Bill](https://en.wikipedia.org/wiki/Indiana_Pi_Bill), when some misguided
 lawmakers thought they could legislate the value of π. 
 [Archimedes](https://en.wikipedia.org/wiki/Archimedes) and the Egyptians talked about 22/7 [thousands of years ago](https://en.wikipedia.org/wiki/Approximations_of_%CF%80), and it's stood the test of time. Let's celebrate!
+
+## Wait, isn't July 22 "Pi Approximation Day"
+
+Every written value of π is an approximation. Remove redundant words. 
 
 ## Doesn't everybody in the world automatically think of "π" when they hear March 14th? 
 
