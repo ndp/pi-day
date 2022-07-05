@@ -16,7 +16,7 @@
 ## Wait, isn't March 14th π day?
 
 March 14th was declared π Day by U.S.-centric San Francisco hippies very recently. This follows on
-in the tradition of the [Indian Pi Bill](https://en.wikipedia.org/wiki/Indiana_Pi_Bill), when some misguided
+in the tradition of the [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_Pi_Bill), when some misguided
 lawmakers thought they could legislate the value of π. 
 [Archimedes](https://en.wikipedia.org/wiki/Archimedes) and the Egyptians talked about 22/7 [thousands of years ago](https://en.wikipedia.org/wiki/Approximations_of_%CF%80), and it's stood the test of time. Let's celebrate!
 
@@ -30,6 +30,10 @@ To most of the world, March 14th would be written as `14.03.2022`, or just `14/3
 of these seems to have much to do with π. 
 
 In the U.S., the day and month are written backwards, so there is it written 3/14. But if you're a human being, you've likely never seen "/" used to respresent a decimal. Americans generally don't use periods to separate the day and the month.  Honestly, Americans almost always write 3/14, which is 0.214285714... last I checked. What a mess.
+
+
+
+
 
 | How to write March 14  |  Who does this? |
 |------------------------|---------------------------------|
