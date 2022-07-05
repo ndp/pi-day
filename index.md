@@ -33,10 +33,10 @@ In the U.S., the day and month are written backwards, so there is it written 3/1
 
 | How to write March 14  |  Who does this? |
 |------------------------|---------------------------------|
-| 14.03          |  People on StarTrek who use stardates?  |
+| 3/14           |  U.S. residents                          | 
 | 14/3           |  Everyone in the world (except U.S.)    | 
-| 3/14           |  U.S. standard                          | 
-| 3.14           |  Pretty much *NOBODY*                     | 
+| 14.03          |  Global Designery types                 |
+| 3.14           |  Pretty much *NOBODY* except StarTrek characters | 
 
 
 ### Isn't 3.14 really close?
