@@ -8,7 +8,7 @@
 - calculate pi [in some unique way](https://en.wikipedia.org/wiki/Buffon%27s_needle_problem#Estimating_%CF%80)
 - get together with some nerdy friends and nerd out in some other way
 - hone your estimation skills
-- do you homework
+- do your homework
 
 ## Wait, isn't March 14th π day?
 
